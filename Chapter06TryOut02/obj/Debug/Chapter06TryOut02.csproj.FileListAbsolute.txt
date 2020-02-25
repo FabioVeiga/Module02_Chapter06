@@ -1,0 +1,6 @@
+D:\IBT\C# Windows Form\Chapter06TryOut02\bin\Debug\Chapter06TryOut02.exe.config
+D:\IBT\C# Windows Form\Chapter06TryOut02\bin\Debug\Chapter06TryOut02.exe
+D:\IBT\C# Windows Form\Chapter06TryOut02\bin\Debug\Chapter06TryOut02.pdb
+D:\IBT\C# Windows Form\Chapter06TryOut02\obj\Debug\Chapter06TryOut02.csproj.CoreCompileInputs.cache
+D:\IBT\C# Windows Form\Chapter06TryOut02\obj\Debug\Chapter06TryOut02.exe
+D:\IBT\C# Windows Form\Chapter06TryOut02\obj\Debug\Chapter06TryOut02.pdb
